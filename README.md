@@ -2,7 +2,7 @@
 
 Reescreva o programa main.cpp para várias datas válidas para calcular o dia da semana.
 
-O programa deve parar quando ler uma data inválida. 
+**O programa deve parar quando ler uma data inválida**. 
 
 Uma data inválida acontece quando dia, mês e ano possuem um valor não-válido.
 
