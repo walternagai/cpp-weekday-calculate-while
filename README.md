@@ -22,4 +22,4 @@ Veja o **Feeback** no link *Pull requests* saber se a saída do programa está d
 * dia = 23, mes = 3, ano = 2007, Mensagem = Sexta-feira
 * dia = 12, mes = 8, ano = 1977, Mensagem = Sexta-feira
 * dia = 11, mes = 5, ano = 1944, Mensagem = Quinta-feira
-* dia = 0, mes = 0, ano = 0, Mensagem = Data invalida.
+* dia = 0, mes = 0, ano = 0, Não é mostrada nenhuma mensagem.
