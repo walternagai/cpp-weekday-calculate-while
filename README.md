@@ -14,7 +14,7 @@ Confira se o repositório está criado em alguma das organizações GitHub:
 * [https://github.com/p7-m4-ecoi02-2021-1](https://github.com/p7-m4-ecoi02-2021-1)
 * [https://github.com/p8-m4-ecoi02-2021-1](https://github.com/p8-m4-ecoi02-2021-1)
 
-Veja o **Feeback** no link *Pull requests* saber se a saída do programa está de acordo com o esperado.
+Veja o **Feeback** no link *Pull requests* para aber se a saída do programa está de acordo com o esperado.
 
 ## Exemplos de valores
 
