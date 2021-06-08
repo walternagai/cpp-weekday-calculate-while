@@ -90,9 +90,6 @@ int main() {
     // ADICIONAR ler as variáveis dia, mes e ano
     // ADICIONAR chamar validarData para as variáveis dia, mês e ano
   }
-  // MODIFICAR o comando else para if e verificar se dataValida é igual a false
-  else {
-    cout << "Data invalida.\n";
-  }
+
   return 0;
 }
