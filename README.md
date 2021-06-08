@@ -6,6 +6,14 @@ Reescreva o programa main.cpp para várias datas válidas para calcular o dia da
 
 Uma data inválida acontece quando dia, mês e ano possuem um valor não-válido.
 
+Altere o código somente na função *main*. Nas demais funções não é preciso modificar.
+
+LEIA atentamente os comentários na função *main* para fazer as alterações.
+
+Confira se o repositório está criado em alguma das organizações GitHub:
+* [https://github.com/p7-m4-ecoi02-2021-1](https://github.com/p7-m4-ecoi02-2021-1)
+* [https://github.com/p8-m4-ecoi02-2021-1](https://github.com/p8-m4-ecoi02-2021-1)
+
 ## Exemplos de valores
 
 * dia = 12, mes = 5, ano = 2014, Mensagem = Segunda-feira
