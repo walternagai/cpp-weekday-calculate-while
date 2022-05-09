@@ -55,7 +55,7 @@ bool ehAnoBissexto (int ano) {
 bool validarData (int dia, int mes, int ano) {
   if (ano < 0)
     return false;
-  else if (ano > 2021)
+  else if (ano > 2022)
     return false;
   else if (mes <= 0 || mes > 12)
     return false;
